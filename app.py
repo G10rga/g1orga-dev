@@ -24,6 +24,14 @@ PROJECTS = [
         "description": "A lab for prototypes, demos, and things worth trying before they ship.",
         "accent": "#4dd0a8",
     },
+    {
+        "name" : "Qalaqobana",
+        "url" : "https://qalaqobana.g1orga.dev",
+        "tagline" : "Word based game",
+        "description" : "A Game that digitalizes georgian notebook/paper based word game.",
+        "accent" : "4dd0a8",
+    },
+    
 ]
 
 
