@@ -25,11 +25,11 @@ PROJECTS = [
         "accent": "#4dd0a8",
     },
     {
-        "name" : "Qalaqobana",
-        "url" : "https://qalaqobana.g1orga.dev",
-        "tagline" : "Word based game",
-        "description" : "A Game that digitalizes georgian notebook/paper based word game.",
-        "accent" : "4dd0a8",
+        "name": "Qalaqobana",
+        "url": "https://qalaqobana.g1orga.dev",
+        "tagline": "Georgian word game",
+        "description": "Online multiplayer Qalaqobana — roll a letter, fill the categories, call STOP, and score.",
+        "accent": "#e8c547",
     },
     
 ]
